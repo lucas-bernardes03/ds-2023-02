@@ -1,1 +1,1 @@
-Quantidade de exercícios realizados: 9
+## Quantidade de exercícios realizados: 11
